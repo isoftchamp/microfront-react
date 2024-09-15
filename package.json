@@ -1,5 +1,6 @@
 {
   "name": "@patrick/react-app",
+  "license": "MIT",
   "scripts": {
     "start": "webpack serve --port 8080",
     "start2": "webpack serve --port 8081",

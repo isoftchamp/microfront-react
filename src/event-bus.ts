@@ -8,7 +8,7 @@ export interface MessageEvent {
 
 declare global {
   interface Window {
-    eventBus?: Subject<MessageEvent>; // Adjust the type as needed
+    eventBus?: Subject<MessageEvent>;
   }
 }
 
