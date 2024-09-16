@@ -88,16 +88,8 @@ In the project directory, you can run the following npm scripts:
 `npm start`: Runs the app in development mode.
 `npm run build`: Builds the app for production.
 `npm run lint`: Lints the project using ESLint.
-`npm run format`: Formats the code using Prettier.
-  
-5. Building for Production
-To create a production-ready build of the React app, run:
-
-bash
-Copy code
-npm run build
-This will create an optimized bundle in the build/ folder.
+`npm run format`: Formats the code using Prettier
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
